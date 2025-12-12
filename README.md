@@ -43,9 +43,9 @@ I build **reliable automation platforms**, **quality engineering systems**, and 
 ---
 
 ## 📫 Connect with me
-- LinkedIn: <add-your-link>
-- Email: <add-your-email>
-- Resume: <add-your-resume-link or GitHub Pages site>
+- LinkedIn: https://linkedin.com/in/mayank-sahu-105067175
+- Email: mayanksahu22107@gmail.com
+- Resume (PDF): https://github.com/Genkryptos/Genkryptos/raw/main/Mayank_Sahu_Resume.pdf
 
 ---
 
