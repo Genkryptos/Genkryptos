@@ -20,9 +20,6 @@ I build **reliable automation platforms**, **quality engineering systems**, and 
   - Designed for agent context retention + faster retrieval
   - Focus on structure, extensibility, and production-style engineering
 
-- **(Add your next best repo here)**  
-  - Small but real project > fake commits. Add something you can explain in an interview.
-
 ---
 
 ## 🛠 Tech I use
