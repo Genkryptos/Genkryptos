@@ -50,8 +50,3 @@ I build **reliable automation platforms**, **quality engineering systems**, and 
 - If you’re here for **Continuum**, start with the README and architecture notes.
 - I prefer **clean design + real engineering tradeoffs** over flashy demos.
 
----
-
-### ⚡ Stats (optional)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Genkryptos&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Genkryptos&layout=compact)
